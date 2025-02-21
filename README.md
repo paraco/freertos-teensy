@@ -1,6 +1,6 @@
 # FreeRTOS Port for Teensy 4.1
 
-This is a basic port of [FreeRTOS][FreeRTOS] for the [Teensy 3.5][Teensy], [Teensy 3.6][Teensy], [Teensy 4.0][Teensy] and [Teensy 4.1][Teensy] boards.
+This is a basic port of [FreeRTOS][FreeRTOS] LTS v11.1 for the [Teensy 4.1][Teensy] boards.
 
 ## Introduction
 
